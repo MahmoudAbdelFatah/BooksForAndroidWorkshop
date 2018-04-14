@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="image">image of book</string>
+    <string name="BASE_URL">https://www.googleapis.com/books/v1/volumes?q=time</string>
+    <string name="PRINT_TYPE">printType=books</string>
+    <string name="KEY">AIzaSyBd97lbpG6qb_j1ERREEBOom_Q3IFUMi8k</string>
+</resources>
